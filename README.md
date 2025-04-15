@@ -1,11 +1,12 @@
 ## 👋 Hi there
 
-- You can call me ALKALiKong or 阿狸, a senior high school student from China.
+- You can call me ALKALiKong or 阿狸, a university student from China.
 - Minecraft Gamer & Noob in Everything
 
 ## 🤔 Currently doing
 
 - Learning in university
+- Learning Vue, Algorithm and something fun
 - Maintaining a minecraft server 
 
 ## 💻 Working environment
